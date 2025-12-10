@@ -1,54 +1,94 @@
-# 👋 Hi, I'm Prakhar Pal  
-🎓 Pursuing M.Tech From NIT Rourkela | ⚡ EV & IoT Researcher | 📡 Embedded Systems Developer | 🧠 IEEE Author
+<h1 align="center">Hi, I'm Prakhar Pal ⚡</h1>
+<h3 align="center">Control & Automation Engineering | Embedded Systems | EV & IoT Research</h3>
 
 ---
 
-## 🚀 About Me
-- 🔋 Working in **Electric Vehicle Battery Management Systems**
-- 📡 Passionate about **IoT, Embedded Systems & Arduino**
-- 📄 **IEEE Published Author – PARC 2024**
-- 💻 Love building **real-time monitoring systems**
-- 🎯 Career Goal: EV Systems | Power Electronics | Embedded R&D
+## 👨‍🎓 About Me
+
+- 🎓 **Control & Automation, Electrical Engineering**
+- 🏫 **National Institute of Technology, Rourkela**
+- 🔬 Strong hands-on in **Embedded Systems & Microcontrollers**
+- 📄 **IEEE Published Author (EV Battery Management System)**
+- ⚡ Passionate about **Electric Vehicles, IoT & Power Electronics**
+- 🎯 Career Goal: **EV Systems | Embedded R&D | Control Systems Engineer**
 
 ---
 
-## 🏆 Featured IEEE Project
-### ⚡ IoT Based EV Battery Management System  
-🔋 Real-Time Charge Monitoring & Fire Protection  
-📖 Published in **IEEE PARC 2024**  
-🔗 GitHub Repository: *(tum apna project link yahan paste karo)*
+## 🏆 Featured IEEE Research Project
 
-✅ Arduino UNO  
-✅ ESP8266 Wi-Fi  
-✅ Voltage, Current & Temperature Sensors  
-✅ Automatic Cut-Off  
-✅ Fire Protection System  
-✅ Android App Monitoring  
+### 🔋 IoT Based EV Battery Management System  
+**Real-Time Charge Monitoring & Fire Protection**
 
----
+- ⚡ Voltage, Current & Temperature Monitoring  
+- 🚨 Automatic Cut-Off & Fire Protection  
+- 📡 ESP8266 IoT Based Remote Monitoring  
+- 🔧 Arduino UNO + BLDC Motor  
+- 📖 Published in **IEEE PARC 2024**
 
-## 🛠 Tech Stack & Skills
-
-**Programming:**  
-`C` `Arduino` `Embedded C`
-
-**Hardware & IoT:**  
-`Arduino UNO` `ESP8266` `Sensors` `Relay` `BLDC Motor`
-
-**Domains:**  
-`Electric Vehicles` `Battery Management Systems` `IoT` `Embedded Systems`
+🔗 **GitHub Repo:** *(tum apna EV project link yahan paste karo)*
 
 ---
 
-## 📊 GitHub Stats
+## 🛠 Technical Skills
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prakharAB17&show_icons=true)
+### 🔹 Embedded & Controllers
+- Arduino UNO / Mega
+- STM32 (CubeIDE)
+- ESP8266 Wi-Fi
+- Sensors: MPU6050, LM35, Voltage & Current Sensors
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prakharAB17&layout=compact)
+### 🔹 Communication Protocols
+- I2C  
+- UART  
+- CAN Bus  
+- SPI  
+
+### 🔹 Control & Signal Processing
+- PID Controller
+- FIR Filter Design
+- PWM Generation (Phase Shifted)
+
+### 🔹 Programming
+- Embedded C
+- C Programming
+- MATLAB (Signal Processing)
 
 ---
 
-## 📫 Let’s Connect
+## 🔬 Key Lab & Hardware Experience (From NIT Rourkela)
+
+- ✅ FIR Filter implementation using MATLAB + Arduino  
+- ✅ Phase-shifted PWM generation using Arduino Mega Timers  
+- ✅ CAN Bus communication between dual Arduino nodes  
+- ✅ MPU6050 Sensor Data transmission via CAN  
+- ✅ STM32 LED Control using HAL Drivers  
+- ✅ I2C based MPU6050 + LCD Integration  
+- ✅ UART Communication using STM32 CubeIDE  
+
+---
+
+## ⚙️ Tools & Software
+
+- Arduino IDE  
+- STM32 CubeIDE  
+- MATLAB  
+- Proteus  
+- VS Code  
+- Git & GitHub  
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+⚠️ `YOUR_USERNAME` ko apne asli GitHub username se replace kar dena.
+
+---
+
+## 📫 Connect With Me
 
 - 📧 Email: *(palprakhar365@gmail.com)*
 - 🔗 LinkedIn: *(www.linkedin.com/in/prakhar-pal-5b7a8a232)*
@@ -56,4 +96,4 @@
 
 ---
 
-⭐ *“Learning Embedded Systems & EV Technology one project at a time.”*
+<h3 align="center">⚡ “Building Embedded Systems for Next-Gen Electric Mobility” ⚡</h3>
