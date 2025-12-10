@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Prakhar Pal  
-🎓 M.Tech Aspirant | ⚡ EV & IoT Researcher | 📡 Embedded Systems Developer | 🧠 IEEE Author
+🎓 Pursuing M.Tech From NIT Rourkela | ⚡ EV & IoT Researcher | 📡 Embedded Systems Developer | 🧠 IEEE Author
 
 ---
 
@@ -51,7 +51,7 @@
 ## 📫 Let’s Connect
 
 - 📧 Email: *(palprakhar365@gmail.com)*
-- 🔗 LinkedIn: *(apna LinkedIn link)*
+- 🔗 LinkedIn: *(www.linkedin.com/in/prakhar-pal-5b7a8a232)*
 - 💻 GitHub: https://github.com/prakharAB17
 
 ---
