@@ -34,7 +34,7 @@ M.Tech (Control & Automation) @ NIT Rourkela | Embedded Systems | EV & IoT | IEE
 - ✅ Remote Mobile App Monitoring  
 - ✅ **Published at IEEE PARC 2024**
 
-🔗 **Project Repository:** *(tum apna EV project GitHub link yahan paste karo)*
+🔗 **Project Repository:** *(https://github.com/prakharAB17/IoT-EV-Battery-Management-System)*
 
 ---
 
