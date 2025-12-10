@@ -1,84 +1,102 @@
-<h1 align="center">Hi, I'm Prakhar Pal ⚡</h1>
-<h3 align="center">Control & Automation Engineering | Embedded Systems | EV & IoT Research</h3>
+<h1 align="center">⚡ Prakhar Pal</h1>
+<p align="center">
+M.Tech (Control & Automation) @ NIT Rourkela | Embedded Systems | EV & IoT | IEEE Author
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Embedded-Systems-blue"/>
+<img src="https://img.shields.io/badge/EV-Technology-green"/>
+<img src="https://img.shields.io/badge/IoT-ESP8266-orange"/>
+<img src="https://img.shields.io/badge/IEEE-Author-red"/>
+</p>
 
 ---
 
-## 👨‍🎓 About Me
+## 👨‍💻 About Me  
 
-- 🎓 **Control & Automation, Electrical Engineering**
-- 🏫 **National Institute of Technology, Rourkela**
-- 🔬 Strong hands-on in **Embedded Systems & Microcontrollers**
-- 📄 **IEEE Published Author (EV Battery Management System)**
-- ⚡ Passionate about **Electric Vehicles, IoT & Power Electronics**
-- 🎯 Career Goal: **EV Systems | Embedded R&D | Control Systems Engineer**
+- 🎓 **M.Tech in Electrical Engineering (Control & Automation)** — *NIT Rourkela*  
+- 🎓 **B.Tech in Electrical Engineering** — *REC Kannauj (CGPA: 7.27)*  
+- ⚡ IEEE Published Author in **EV Battery Management Systems**  
+- 🔬 Strong interest in **Embedded Systems, EV Technology, IoT & Control Systems**  
+- 🎯 Career Goal: **Embedded R&D | EV Systems | Control Engineer**
 
 ---
 
-## 🏆 Featured IEEE Research Project
+## 🏆 Featured IEEE Research Project  
 
 ### 🔋 IoT Based EV Battery Management System  
-**Real-Time Charge Monitoring & Fire Protection**
+**Charge Monitoring & Fire Protection**
 
-- ⚡ Voltage, Current & Temperature Monitoring  
-- 🚨 Automatic Cut-Off & Fire Protection  
-- 📡 ESP8266 IoT Based Remote Monitoring  
-- 🔧 Arduino UNO + BLDC Motor  
-- 📖 Published in **IEEE PARC 2024**
+- ✅ Real-time Voltage, Current & Temperature Monitoring  
+- ✅ Automatic Cut-Off & Fire Protection System  
+- ✅ Arduino UNO + ESP8266 Wi-Fi  
+- ✅ BLDC Motor + Li-ion Battery  
+- ✅ Remote Mobile App Monitoring  
+- ✅ **Published at IEEE PARC 2024**
 
-🔗 **GitHub Repo:** *(https://github.com/prakharAB17/IoT-EV-Battery-Management-System)*
-
----
-
-## 🛠 Technical Skills
-
-### 🔹 Embedded & Controllers
-- Arduino UNO / Mega
-- STM32 (CubeIDE)
-- ESP8266 Wi-Fi
-- Sensors: MPU6050, LM35, Voltage & Current Sensors
-
-### 🔹 Communication Protocols
-- I2C  
-- UART  
-- CAN Bus  
-- SPI  
-
-### 🔹 Control & Signal Processing
-- PID Controller
-- FIR Filter Design
-- PWM Generation (Phase Shifted)
-
-### 🔹 Programming
-- Embedded C
-- C Programming
-- MATLAB (Signal Processing)
+🔗 **Project Repository:** *(tum apna EV project GitHub link yahan paste karo)*
 
 ---
 
-## 🔬 Key Lab & Hardware Experience (From NIT Rourkela)
+## 💼 Internship Experience  
 
-- ✅ FIR Filter implementation using MATLAB + Arduino  
-- ✅ Phase-shifted PWM generation using Arduino Mega Timers  
-- ✅ CAN Bus communication between dual Arduino nodes  
-- ✅ MPU6050 Sensor Data transmission via CAN  
-- ✅ STM32 LED Control using HAL Drivers  
-- ✅ I2C based MPU6050 + LCD Integration  
-- ✅ UART Communication using STM32 CubeIDE  
+### 🏭 NTPC – National Thermal Power Corporation (Summer Intern)  
+📍 Auraiya, UP | 🗓 July 2023 – Aug 2023  
 
----
-
-## ⚙️ Tools & Software
-
-- Arduino IDE  
-- STM32 CubeIDE  
-- MATLAB  
-- Proteus  
-- VS Code  
-- Git & GitHub  
+- ✅ Studied electricity generation & transmission systems  
+- ✅ Hands-on exposure to **Gas & Steam Turbines**  
+- ✅ Practical training on **Transformers, Protection Devices & Load Sharing**  
+- ✅ Industrial-level safety & power system operations  
 
 ---
 
-## 📈 GitHub Stats
+## 🛠 Technical Skills  
+
+### 🔹 Programming  
+`C` `Python` `MATLAB` `PLC` `NumPy` `Pandas` `HTML/CSS`
+
+### 🔹 Embedded & IoT  
+`Arduino` `ESP8266` `Sensors` `Relays` `Embedded C`
+
+### 🔹 Tools  
+`AutoCAD Electrical` `VS Code` `Jupyter` `Anaconda`  
+`MS Word` `PowerPoint` `Adobe Photoshop`
+
+### 🔹 Domains  
+`Control Systems` `Power Electronics` `Electrical Machines`  
+`Machine Learning` `Embedded Systems` `EV Technology`
+
+---
+
+## 🚀 Major Projects  
+
+### ⚡ IoT Based EV Battery Management System (2024)  
+- Real-time BMS using **Arduino UNO & ESP8266**  
+- Remote monitoring via IoT  
+- Automated fault prevention & safety framework  
+- Integrated **BLDC motor & Li-ion battery protection**
+
+### 🏠 Home Automation using Arduino (2023)  
+- Bluetooth-based control using **HC-05 & 4-Channel Relay**  
+- Android app-based light & fan control  
+- Focus on energy efficiency & smart control  
+
+---
+
+## 🏅 Achievements & Certifications  
+
+- 🏆 **IEEE Conference Paper – PARC 2024**  
+- 🏅 PLC Programming Certification  
+- 🧮 MATLAB / Simulink Certification  
+- ✅ TCS NQT – Cognitive (75% Score, 2023)  
+- 🎓 NPTEL Certified:
+  - Industry 4.0 & IoT  
+  - Blockchain & Applications  
+  - Soft Skill Development  
+
+---
+
+## 📊 GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prakharAB17&show_icons=true&theme=tokyonight)
 
@@ -86,12 +104,13 @@
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect With Me  
 
-- 📧 Email: *(palprakhar365@gmail.com)*
-- 🔗 LinkedIn: *(www.linkedin.com/in/prakhar-pal-5b7a8a232)*
-- 💻 GitHub: https://github.com/prakharAB17
+- 📧 Email: `palprakhar365@gmail.com`  
+- 📱 Phone: `+91 7081039426`  
+- 💻 GitHub: https://github.com/YOUR_USERNAME  
+- 🔗 LinkedIn: *(apna link yahan daalo)*  
 
 ---
 
-<h3 align="center">⚡ “Building Embedded Systems for Next-Gen Electric Mobility” ⚡</h3>
+<h3 align="center">⚡ “Building Smart Embedded Systems for Next-Gen Electric Mobility” ⚡</h3>
