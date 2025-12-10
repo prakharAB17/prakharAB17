@@ -108,8 +108,8 @@ M.Tech (Control & Automation) @ NIT Rourkela | Embedded Systems | EV & IoT | IEE
 
 - 📧 Email: `palprakhar365@gmail.com`  
 - 📱 Phone: `+91 7081039426`  
-- 💻 GitHub: https://github.com/YOUR_USERNAME  
-- 🔗 LinkedIn: *(apna link yahan daalo)*  
+- 💻 GitHub: https://github.com/prakharAB17  
+- 🔗 LinkedIn: *(www.linkedin.com/in/prakhar-pal-5b7a8a232)*  
 
 ---
 
