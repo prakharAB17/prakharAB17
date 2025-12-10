@@ -80,11 +80,9 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prakharAB17&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
-⚠️ `YOUR_USERNAME` ko apne asli GitHub username se replace kar dena.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prakharAB17&layout=compact&theme=tokyonight)
 
 ---
 
