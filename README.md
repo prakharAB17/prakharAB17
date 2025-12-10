@@ -25,7 +25,7 @@
 - 🔧 Arduino UNO + BLDC Motor  
 - 📖 Published in **IEEE PARC 2024**
 
-🔗 **GitHub Repo:** *(tum apna EV project link yahan paste karo)*
+🔗 **GitHub Repo:** *(https://github.com/prakharAB17/IoT-EV-Battery-Management-System)*
 
 ---
 
